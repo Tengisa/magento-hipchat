@@ -21,16 +21,17 @@
         "skin": "default",
         "domain": "tengisa.co.za"
     },
-    "keywords":["magento","module"],
-    "repositories":
-    [
+    "keywords": [
+        "magento",
+        "module"
+    ],
+    "repositories": [
         {
             "type": "composer",
             "url": "http://pack-tengisa.cloudapp.net"
         }
     ],
-    "require":
-    {
+    "require": {
         "php": ">=5.4.0",
         "magento-hackathon/magento-composer-installer": "~3.0",
         "ecomdev/ecomdev_phpunit": "~0.3",
@@ -47,8 +48,7 @@
         "modman-root-dir": ".modman"
     },
     "scripts": {
-        "post-update-cmd":
-        [
+        "post-update-cmd": [
             "bash bin/modman repair",
             "rm -rf magento/var/cache/",
             "bin/mage-ci phpunit magento --colors"
