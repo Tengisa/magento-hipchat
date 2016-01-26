@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "13c65ca28223ce9bb7cdbc0cd50f6978",
-    "content-hash": "96adc9e58343b5044bdcef0f9e08dcb8",
+    "hash": "0979a10869ea3484bd19f8d984701f20",
+    "content-hash": "0b2691872563673e50148f37d7794474",
     "packages": [
         {
             "name": "cvm/googletagmanager",
