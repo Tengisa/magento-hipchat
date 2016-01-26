@@ -2,7 +2,7 @@
     "name": "mhauri/hipchat",
     "description": "Magento HipChat allows you to send notifications to a room",
     "type": "magento-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "module": {
         "package": "Mhauri",
         "name": "HipChat",
