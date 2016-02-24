@@ -11,7 +11,6 @@ src/app/code/community/Mhauri/HipChat/etc/system.xml   app/code/community/Mhauri
 src/app/code/community/Mhauri/HipChat/etc/adminhtml.xml   app/code/community/Mhauri/HipChat/etc/adminhtml.xml
 src/app/code/community/Mhauri/HipChat/Helper/Data.php   app/code/community/Mhauri/HipChat/Helper/Data.php
 src/app/code/community/Mhauri/HipChat/Test/Config/Module.php   app/code/community/Mhauri/HipChat/Test/Config/Module.php
-src/app/etc/modules/installed/Mhauri_HipChat.xml.sample   app/etc/modules/installed/Mhauri_HipChat.xml.sample
 src/app/etc/modules/Mhauri_HipChat.xml   app/etc/modules/Mhauri_HipChat.xml
 src/app/locale/en_US/Mhauri_HipChat.csv   app/locale/en_US/Mhauri_HipChat.csv
 src/skin/frontend/base/default/css/hipchat.css   skin/frontend/base/default/css/hipchat.css
