@@ -28,7 +28,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "http://pack-tengisa.cloudapp.net"
+            "url": "http://tengisa.tngnt.co"
         }
     ],
     "require": {

@@ -35,7 +35,7 @@
                 "magento-root-dir": "magento",
                 "modman-root-dir": ".modman"
             },
-            "notification-url": "http://pack-tengisa.cloudapp.net/downloads/",
+            "notification-url": "http://tengisa.tngnt.co/downloads/",
             "description": "Google Tag Manager extension for Magento",
             "keywords": [
                 "magento",
@@ -65,7 +65,7 @@
                 "ivanchepurnyi/ecomdev_phpunit": "*"
             },
             "type": "magento-module",
-            "notification-url": "http://pack-tengisa.cloudapp.net/downloads/",
+            "notification-url": "http://tengisa.tngnt.co/downloads/",
             "license": [
                 "OSL-3.0"
             ],
@@ -440,7 +440,7 @@
                     "MagentoHackathon\\Composer": "src/"
                 }
             },
-            "notification-url": "http://pack-tengisa.cloudapp.net/downloads/",
+            "notification-url": "http://tengisa.tngnt.co/downloads/",
             "license": [
                 "OSL-3.0"
             ],
@@ -1408,7 +1408,7 @@
                 "magento-root-dir": "magento",
                 "modman-root-dir": ".modman"
             },
-            "notification-url": "http://pack-tengisa.cloudapp.net/downloads/",
+            "notification-url": "http://tengisa.tngnt.co/downloads/",
             "description": "Ensure important environment configurations are retained, by running database fixture files via Magento CLI",
             "keywords": [
                 "magento",
@@ -1443,7 +1443,7 @@
             "extra": {
                 "magento-root-dir": "magento"
             },
-            "notification-url": "http://pack-tengisa.cloudapp.net/downloads/",
+            "notification-url": "http://tengisa.tngnt.co/downloads/",
             "description": "A module that will handle script and css file versions to avoid client side script caching when doing new releases",
             "keywords": [
                 "magento",
@@ -1479,7 +1479,7 @@
                 "magento-root-dir": "magento",
                 "modman-root-dir": ".modman"
             },
-            "notification-url": "http://pack-tengisa.cloudapp.net/downloads/",
+            "notification-url": "http://tengisa.tngnt.co/downloads/",
             "description": "Our one-size-fits-all magento/bootstrap theme and skinning solution",
             "keywords": [
                 "magento",
